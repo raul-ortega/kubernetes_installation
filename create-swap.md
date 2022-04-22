@@ -9,7 +9,7 @@ If you want to increase or resize your currently configured swap space, please s
 
 -    Increase or Resize Swap Space.
 
-##1. Create a Swap File
+## 1. Create a Swap File
 
 First check if the system has any swap configured.
 
